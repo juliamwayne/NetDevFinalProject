@@ -1,6 +1,2 @@
-# IT4080_PlayerMovementAndColors
-
-This is the implementation of Module 3's assignment.  This starts with the Base Networking Project and adds:
-* Networked player movement
-* Networked player colors
+Julia Wayne's final for Network Game Development. I used the SpawnPlayersBaseProject as the template for my project.
 
